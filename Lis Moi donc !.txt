@@ -1,6 +1,6 @@
-Yosh !
-Avant tout, installe dans l'ordre suivant > Python 2.7 (Fournis) et Pygame (Fournis également)
-T'as plus qu'à lancer FlappyStriker (En cliquant sur le fichier)
+Salut !
+Avant tout, installe dans l'ordre suivant > Python 2.7 et Pygame (Une lib de gestion de jeux)
+T'as plus qu'Ã  lancer FlappyStriker (En cliquant sur le fichier)
 
 
-PS : Les décors et sprites sont sujets a de gros changements !
+PS : Les dÃ©cors et sprites sont sujets a de gros changements !
